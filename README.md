@@ -14,7 +14,7 @@ Production-grade DevOps dashboard built with React, Tailwind CSS, Docker, Jenkin
 [**JobBordX**](https://github.com/GaneshWalunjX/JobBordX)  
 Full-stack job board application with React, Flask, and DevOps integration. Features CI/CD automation, Dockerized environments, and scalable backend architecture.  
 
-[**Megamart Enterprise Backend**](https://github.com/GaneshWalunjX/megamart-enterprise-backend)  
+[**Megamart**](https://github.com/GaneshWalunjX/megamart-enterprise-backend)  
 Scalable 3-tier e-commerce backend built with Java Spring Boot and MongoDB. Includes containerization, GitLab CI/CD, and cloud-native deployment using Docker, Kubernetes, and Terraform.  
 
 ---
