@@ -35,8 +35,12 @@ Scalable 3-tier e-commerce backend built with Java Spring Boot and MongoDB. Incl
 ---
 
 ## GitHub Stats  
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaneshWalunjX&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=GaneshWalunjX&theme=tokyonight)  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshWalunjX&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=GaneshWalunjX&theme=tokyonight" height="180em"/>
+</div>
+  
 
 ---
 
