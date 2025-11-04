@@ -1,53 +1,62 @@
-# Hi, I'm Ganesh  
+# Hi, I'm Ganesh
+
 **DevOps Engineer | RHCSA Certified | AWS Certified Solutions Architect – Associate**
 
-Passionate about automation, containerization, and cloud-native infrastructure.  
-I specialize in building scalable, resilient systems with CI/CD, Kubernetes, and Infrastructure as Code.  
+Passionate about automation, containerization, and cloud-native infrastructure.
+I specialize in building scalable, resilient systems using CI/CD, Kubernetes, and Infrastructure as Code.
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
-[**StackBridge DevOps Dashboard**](https://github.com/GaneshWalunjX/stackbridge-devops-dashboard)  
-Production-grade DevOps dashboard built with React, Tailwind CSS, Docker, Jenkins, and Kubernetes. Simulates real-world deployment pipelines, container health monitoring, and CI/CD metrics.  
+### [**StackBridge DevOps Dashboard**](https://github.com/GaneshWalunjX/stackbridge-devops-dashboard)
 
-[**JobBordX**](https://github.com/GaneshWalunjX/JobBordX)  
-Full-stack job board application with React, Flask, and DevOps integration. Features CI/CD automation, Dockerized environments, and scalable backend architecture.  
-
-[**Megamart**](https://github.com/GaneshWalunjX/megamart-enterprise-backend)  
-Scalable 3-tier e-commerce backend built with Java Spring Boot and MongoDB. Includes containerization, GitLab CI/CD, and cloud-native deployment using Docker, Kubernetes, and Terraform.  
+A full-stack DevOps deployment showcasing infrastructure automation using Docker, Kubernetes, Terraform, and Jenkins. It provisions clusters and monitoring with Terraform, automates rollouts through Jenkins, and integrates Prometheus for observability — demonstrating secure, production-ready CI/CD orchestration on Kubernetes.
 
 ---
 
-## Certifications  
-- Red Hat Certified System Administrator (RHCSA)  
-- AWS Certified Solutions Architect – Associate (SAA-C03)  
+### [**DevTask**](https://github.com/GaneshWalunjX/megamart-enterprise-backend)
+
+A Kanban task management platform built to demonstrate real-world DevOps workflows. It uses React, Spring Boot, and MongoDB, with GitLab CI/CD for automated builds, testing, and Docker image deployment to Kubernetes provisioned via Ansible and Terraform.
 
 ---
 
-## Tech Stack  
-- Containers & Orchestration: Docker, Kubernetes  
-- CI/CD & Automation: Jenkins, GitLab CI, GitHub Actions  
-- Infrastructure as Code: Terraform, Ansible  
-- Cloud: AWS  
-- OS & Scripting: Linux (RHEL, Ubuntu), Bash, Python  
+### [**JobBordX**](https://github.com/GaneshWalunjX/JobBordX)
+
+A full-stack job board application using React, Flask, and MySQL. It features Dockerized microservices, Jenkins-based CI/CD, and Kubernetes deployments with PV/PVC, VPA, and blue-green strategies for high availability and seamless rollbacks.
 
 ---
 
-## GitHub Stats  
+## Certifications
+
+* Red Hat Certified System Administrator (RHCSA)
+* AWS Certified Solutions Architect – Associate (SAA-C03)
+
+---
+
+## Tech Stack
+
+* **Containers & Orchestration:** Docker, Kubernetes
+* **CI/CD & Automation:** Jenkins, GitLab CI, GitHub Actions
+* **Infrastructure as Code:** Terraform, Ansible
+* **Cloud Platforms:** AWS
+* **OS & Scripting:** Linux (RHEL, Ubuntu), Bash, Python
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaneshWalunjX&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://streak-stats.demolab.com?user=GaneshWalunjX&theme=tokyonight" height="180em"/>
 </div>
-  
 
 ---
 
-## Connect with Me  
-- Email: ganesha.swc@gmail.com  
-- LinkedIn: [linkedin.com/in/ganesh-walunj](https://www.linkedin.com/in/ganesh-walunj)  
-- GitHub: [github.com/GaneshWalunjX](https://github.com/GaneshWalunjX)  
+## Connect with Me
+
+* Email: [ganesha.swc@gmail.com](mailto:ganesha.swc@gmail.com)
+* LinkedIn: [linkedin.com/in/ganesh-walunj](https://www.linkedin.com/in/ganesh-walunj-0a1045335/)
+* GitHub: [github.com/GaneshWalunjX](https://github.com/GaneshWalunjX)
 
 ---
-Always building resilient infrastructure with precision.
