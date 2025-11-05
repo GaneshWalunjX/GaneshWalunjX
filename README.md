@@ -55,7 +55,7 @@ A full-stack job board application using React, Flask, and MySQL. It features Do
 
 ## Connect with Me
 
-* Email: [ganesha.swc@gmail.com](mailto:ganesha.swc@gmail.com)
+* Email: [ganeshwalunj.work@gmail.com](mailto:ganeshwalunj.work@gmail.com)
 * LinkedIn: [linkedin.com/in/ganesh-walunj](https://www.linkedin.com/in/ganesh-walunj-0a1045335/)
 * GitHub: [github.com/GaneshWalunjX](https://github.com/GaneshWalunjX)
 
