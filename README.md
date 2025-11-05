@@ -15,7 +15,7 @@ A full-stack DevOps deployment showcasing infrastructure automation using Docker
 
 ---
 
-### [**DevTask**](https://github.com/GaneshWalunjX/megamart-enterprise-backend)
+### [**DevTask**](https://github.com/GaneshWalunjX/DevTask)
 
 A Kanban task management platform built to demonstrate real-world DevOps workflows. It uses React, Spring Boot, and MongoDB, with GitLab CI/CD for automated builds, testing, and Docker image deployment to Kubernetes provisioned via Ansible and Terraform.
 
